@@ -1,6 +1,9 @@
 # Developing with Webpack
+# Webpack开发
 
 If you are not one of those people who likes to skip the introductions, you might have some clue what Webpack is. In its simplicity, it is a module bundler. It takes a bunch of assets in and outputs assets you can give to your client.
+
+如果你不是那些喜欢跳过简介的人，你应该已经有一些有关Webpack的入门知识了。简单来说，它是一个模块打包器。它能从一些资源中打包那些客户端用到的资源。
 
 This sounds simple, but in practice, it can be a complicated and messy process. You definitely don't want to deal with all the details yourself. This is where Webpack fits in. Next, we'll get Webpack set up and your first project running in development mode.
 
